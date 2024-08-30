@@ -1,9 +1,10 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Ciallo～(∠・ω<)⌒☆ Greetings to my guest who happened to drop at my site!
 
-::github{repo="saicaca/fuwari"}
+This is **ARKKUMA**, a cyber polar bear inhabits distant electronic land! 
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+The blog site was set up as a essay keeper and learning notes will be updated afterward.
+
+As the blog's framework is still under development, some ***COOL*** gadgets may be introduced later on.
+
+Feel free to wander around the site and have fun! 

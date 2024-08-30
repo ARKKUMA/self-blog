@@ -20,7 +20,7 @@ const className = Astro.props.class;
     <div class="flex items-center">
         <div class="meta-icon"
         >
-            <Icon name="material-symbols:calendar-today-outline-rounded" class="text-xl"></Icon>
+            <Icon name="material-symbols:calendar-today" class="text-xl"></Icon>
         </div>
         <span class="text-50 text-sm font-medium">{formatDateToYYYYMMDD(published)}</span>
     </div>
@@ -29,7 +29,7 @@ const className = Astro.props.class;
     <div class="flex items-center">
         <div class="meta-icon"
         >
-            <Icon name="material-symbols:menu-rounded" class="text-xl"></Icon>
+            <Icon name="material-symbols:menu-open-rounded" class="text-xl"></Icon>
         </div>
         <div class="flex flex-row flex-nowrap">
             <div><a href=`/archive/category/${category || 'uncategorized'}` aria-label=`View all posts in the ${category} category`

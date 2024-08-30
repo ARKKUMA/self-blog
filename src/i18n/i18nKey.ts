@@ -2,7 +2,6 @@ enum I18nKey {
   home = 'home',
   about = 'about',
   archive = 'archive',
-  search = 'search',
 
   tags = 'tags',
   categories = 'categories',
@@ -22,10 +21,6 @@ enum I18nKey {
   postsCount = 'postsCount',
 
   themeColor = 'themeColor',
-
-  lightMode = 'lightMode',
-  darkMode = 'darkMode',
-  systemMode = 'systemMode',
 
   more = 'more',
 
